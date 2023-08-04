@@ -1,0 +1,15 @@
+/Users/djkulagin/Desktop/Csharp/task16/bin/Debug/net6.0/task16
+/Users/djkulagin/Desktop/Csharp/task16/bin/Debug/net6.0/task16.deps.json
+/Users/djkulagin/Desktop/Csharp/task16/bin/Debug/net6.0/task16.runtimeconfig.json
+/Users/djkulagin/Desktop/Csharp/task16/bin/Debug/net6.0/task16.dll
+/Users/djkulagin/Desktop/Csharp/task16/bin/Debug/net6.0/task16.pdb
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.csproj.CoreCompileInputs.cache
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.dll
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/refint/task16.dll
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.pdb
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/task16.genruntimeconfig.cache
+/Users/djkulagin/Desktop/Csharp/task16/obj/Debug/net6.0/ref/task16.dll
