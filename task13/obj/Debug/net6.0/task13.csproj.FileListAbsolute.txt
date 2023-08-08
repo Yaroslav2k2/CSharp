@@ -1,0 +1,15 @@
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.csproj.CoreCompileInputs.cache
+/Users/djkulagin/Desktop/Csharp/task13/bin/Debug/net6.0/task13
+/Users/djkulagin/Desktop/Csharp/task13/bin/Debug/net6.0/task13.deps.json
+/Users/djkulagin/Desktop/Csharp/task13/bin/Debug/net6.0/task13.runtimeconfig.json
+/Users/djkulagin/Desktop/Csharp/task13/bin/Debug/net6.0/task13.dll
+/Users/djkulagin/Desktop/Csharp/task13/bin/Debug/net6.0/task13.pdb
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.dll
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/refint/task13.dll
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.pdb
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/task13.genruntimeconfig.cache
+/Users/djkulagin/Desktop/Csharp/task13/obj/Debug/net6.0/ref/task13.dll
