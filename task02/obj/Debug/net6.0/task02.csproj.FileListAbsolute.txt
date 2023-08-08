@@ -1,0 +1,15 @@
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.csproj.CoreCompileInputs.cache
+/Users/djkulagin/Desktop/Csharp/task02/bin/Debug/net6.0/task02
+/Users/djkulagin/Desktop/Csharp/task02/bin/Debug/net6.0/task02.deps.json
+/Users/djkulagin/Desktop/Csharp/task02/bin/Debug/net6.0/task02.runtimeconfig.json
+/Users/djkulagin/Desktop/Csharp/task02/bin/Debug/net6.0/task02.dll
+/Users/djkulagin/Desktop/Csharp/task02/bin/Debug/net6.0/task02.pdb
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.dll
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/refint/task02.dll
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.pdb
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/task02.genruntimeconfig.cache
+/Users/djkulagin/Desktop/Csharp/task02/obj/Debug/net6.0/ref/task02.dll
