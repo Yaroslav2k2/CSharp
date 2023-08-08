@@ -1,0 +1,15 @@
+/Users/djkulagin/Desktop/Csharp/task04/bin/Debug/net6.0/task04
+/Users/djkulagin/Desktop/Csharp/task04/bin/Debug/net6.0/task04.deps.json
+/Users/djkulagin/Desktop/Csharp/task04/bin/Debug/net6.0/task04.runtimeconfig.json
+/Users/djkulagin/Desktop/Csharp/task04/bin/Debug/net6.0/task04.dll
+/Users/djkulagin/Desktop/Csharp/task04/bin/Debug/net6.0/task04.pdb
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.csproj.CoreCompileInputs.cache
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.dll
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/refint/task04.dll
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.pdb
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/task04.genruntimeconfig.cache
+/Users/djkulagin/Desktop/Csharp/task04/obj/Debug/net6.0/ref/task04.dll
