@@ -1,2 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/* Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+14212 -> нет
+12821 -> да
+23432 -> да
+*/
+
+Console.WriteLine("введите число:");
+string number = Console.ReadLine();
+int len = number.Length;
+if(len == 5 )
+{
+    if(number[0] == number[4] && number[3] == number[1])
+    {
+        Console.WriteLine("ДА");
+    }
+    else
+    {
+        Console.WriteLine("НЕТ");
+    }
+}
+else
+{
+    Console.WriteLine("Ошибка");
+}
+
