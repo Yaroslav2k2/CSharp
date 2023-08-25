@@ -1,0 +1,5 @@
+/Users/djkulagin/Desktop/Csharp/task23/obj/Debug/net6.0/task23.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/task23/obj/Debug/net6.0/task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/task23/obj/Debug/net6.0/task23.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/task23/obj/Debug/net6.0/task23.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/task23/obj/Debug/net6.0/task23.csproj.CoreCompileInputs.cache
