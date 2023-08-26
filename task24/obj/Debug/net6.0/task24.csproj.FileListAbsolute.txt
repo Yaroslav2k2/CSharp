@@ -1,0 +1,15 @@
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.csproj.CoreCompileInputs.cache
+/Users/djkulagin/Desktop/Csharp/task24/bin/Debug/net6.0/task24
+/Users/djkulagin/Desktop/Csharp/task24/bin/Debug/net6.0/task24.deps.json
+/Users/djkulagin/Desktop/Csharp/task24/bin/Debug/net6.0/task24.runtimeconfig.json
+/Users/djkulagin/Desktop/Csharp/task24/bin/Debug/net6.0/task24.dll
+/Users/djkulagin/Desktop/Csharp/task24/bin/Debug/net6.0/task24.pdb
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.dll
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/refint/task24.dll
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.pdb
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/task24.genruntimeconfig.cache
+/Users/djkulagin/Desktop/Csharp/task24/obj/Debug/net6.0/ref/task24.dll
