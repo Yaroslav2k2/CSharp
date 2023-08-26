@@ -5,7 +5,7 @@
 Console.WriteLine("Введите число:");
 int summa=0;
 int numberA = Convert.ToInt32(Console.ReadLine());
-for(int i=1; i<numberA; i++)
+for(int i=1; i<=numberA; i++)
 {
     summa=summa+i;
 }
