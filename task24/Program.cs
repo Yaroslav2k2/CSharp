@@ -3,10 +3,15 @@
 */
 
 Console.WriteLine("Введите число:");
-int summa=0;
+//int summa=0;
 int numberA = Convert.ToInt32(Console.ReadLine());
-for(int i=1; i<=numberA; i++)
+int DefSumma(int number)
 {
-    summa=summa+i;
+    int summa=0;
+    for(int i=1; i<=numberA; i++)
+{
+    summa+=i;
 }
-Console.WriteLine($"Сумма равна {summa}");
+    return summa;
+}
+Console.WriteLine($"Сумма равна {DefSumma(numberA)}");
