@@ -16,7 +16,7 @@ void printarray(int[] arraytoprint)
     System.Console.Write("[");
     for(int i=0;i < arraytoprint.Length;i++)
     {
-        System.Console.Write($"{arraytoprint[i]}");
+        System.Console.Write($"{arraytoprint[i]} ");
     }
     Console.WriteLine("]");
 }
