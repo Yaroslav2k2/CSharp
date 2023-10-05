@@ -1,0 +1,15 @@
+/Users/djkulagin/Desktop/Csharp/dopkurs/bin/Debug/net6.0/dopkurs
+/Users/djkulagin/Desktop/Csharp/dopkurs/bin/Debug/net6.0/dopkurs.deps.json
+/Users/djkulagin/Desktop/Csharp/dopkurs/bin/Debug/net6.0/dopkurs.runtimeconfig.json
+/Users/djkulagin/Desktop/Csharp/dopkurs/bin/Debug/net6.0/dopkurs.dll
+/Users/djkulagin/Desktop/Csharp/dopkurs/bin/Debug/net6.0/dopkurs.pdb
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.csproj.AssemblyReference.cache
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.AssemblyInfoInputs.cache
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.AssemblyInfo.cs
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.csproj.CoreCompileInputs.cache
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.dll
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/refint/dopkurs.dll
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.pdb
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/dopkurs.genruntimeconfig.cache
+/Users/djkulagin/Desktop/Csharp/dopkurs/obj/Debug/net6.0/ref/dopkurs.dll
