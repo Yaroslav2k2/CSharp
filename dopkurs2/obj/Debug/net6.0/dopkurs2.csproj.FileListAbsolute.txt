@@ -21,3 +21,10 @@
 /Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.dll
 /Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/refint/dopkurs2.dll
 /Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.pdb
+/Users/admin/Documents/Csharp/dopkurs2/bin/Debug/net6.0/dopkurs2
+/Users/admin/Documents/Csharp/dopkurs2/bin/Debug/net6.0/dopkurs2.deps.json
+/Users/admin/Documents/Csharp/dopkurs2/bin/Debug/net6.0/dopkurs2.runtimeconfig.json
+/Users/admin/Documents/Csharp/dopkurs2/bin/Debug/net6.0/dopkurs2.dll
+/Users/admin/Documents/Csharp/dopkurs2/bin/Debug/net6.0/dopkurs2.pdb
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.genruntimeconfig.cache
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/ref/dopkurs2.dll
