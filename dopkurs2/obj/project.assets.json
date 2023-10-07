@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/djkulagin/.nuget/packages/": {}
+    "/Users/admin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/djkulagin/Desktop/Csharp/dopkurs2/dopkurs2.csproj",
+      "projectUniqueName": "/Users/admin/Documents/Csharp/dopkurs2/dopkurs2.csproj",
       "projectName": "dopkurs2",
-      "projectPath": "/Users/djkulagin/Desktop/Csharp/dopkurs2/dopkurs2.csproj",
-      "packagesPath": "/Users/djkulagin/.nuget/packages/",
-      "outputPath": "/Users/djkulagin/Desktop/Csharp/dopkurs2/obj/",
+      "projectPath": "/Users/admin/Documents/Csharp/dopkurs2/dopkurs2.csproj",
+      "packagesPath": "/Users/admin/.nuget/packages/",
+      "outputPath": "/Users/admin/Documents/Csharp/dopkurs2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/djkulagin/.nuget/NuGet/NuGet.Config"
+        "/Users/admin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
       }
     }
   }

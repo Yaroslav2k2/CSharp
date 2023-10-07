@@ -13,3 +13,11 @@
 /Users/djkulagin/Desktop/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.pdb
 /Users/djkulagin/Desktop/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.genruntimeconfig.cache
 /Users/djkulagin/Desktop/Csharp/dopkurs2/obj/Debug/net6.0/ref/dopkurs2.dll
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.csproj.AssemblyReference.cache
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.AssemblyInfoInputs.cache
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.AssemblyInfo.cs
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.dll
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/refint/dopkurs2.dll
+/Users/admin/Documents/Csharp/dopkurs2/obj/Debug/net6.0/dopkurs2.pdb
