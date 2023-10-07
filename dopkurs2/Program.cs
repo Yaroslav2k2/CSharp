@@ -15,7 +15,7 @@ class Program
         while (true)
         {
             Console.Write("Введите вашу догадку: ");
-            string userInput = Console.ReadLine();
+            string userInput = Console.ReadLine()!;
 
             if (!int.TryParse(userInput, out int guess) || guess < 1 || guess > 100)
             {
